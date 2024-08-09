@@ -17,42 +17,70 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am now a PhD student in the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/) of the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) under the advisory of Prof. [Kai Zheng](https://zheng-kai.com/). I got my M.E. degree from the Beijing University of Posts and Telecommunications in 2023. My research interests include time series analysis and spatio-temporal data mining.
 
+
+
+
+
+<!-- # 🔥 News
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by CIKM 2024. 
+- *2024.02*: &nbsp;🎉🎉 One paper is accepted by ICDE 2024.
 
 # 📝 Publications 
+1. Yang Xiao, Zijie Zhang, **Yuchen Fang**, Da Yan, Yang Zhou, Wei-Shinn Ku, Bo Hui*. Advancing Certified Robustness of Explanation via Gradient Quantization. The 33rd ACM International Conference on
+Information and Knowledge Management. (Accepted, **CIKM 2024**)
+2. **Yuchen Fang**, Haiyong Luo*, Fang Zhao*, Poly ZH Sun, Yanjun Qin, Liang Zeng, Bo Hui, Chenxing Wang. CDGNet: A Cross-Time Dynamic Graph-Based Deep Learning Model for Vehicle-Based Traffic Speed Forecasting. IEEE Transactions on Intelligent Vehicles. (T-IV 2024)
+3. **Yuchen Fang**, Jiandong Xie, Yan Zhao, Lu Chen, Yunjun Gao, Kai Zheng*. Temporal-Frequency Masked Autoencoders for Time Series Anomaly Detection. The 40th IEEE International Conference on Data Engineering. (**ICDE 2024**)
+4. Haichao Zhang, Fang Zhao*, Chenxing Wang, Haiyong Luo*, Haoyu Xiong, **Yuchen Fang**. Knowledge Distillation for Travel Time Estimation. IEEE Transactions on Intelligent Transportation Systems. (T-ITS 2024) 
+5. Guangyin Jin, Yuxuan Liang*, **Yuchen Fang**, Zezhi Shao, Jincai Huang, Junbo Zhang, Yu Zheng. Spatio-temporal graph neural networks for predictive learning in urban computing: A survey. IEEE Transactions on Knowledge and Data Engineering. (**TKDE 2023**)
+6. **Yuchen Fang**, Yanjun Qin, Haiyong Luo, Fang Zhao, Kai Zheng*. STWave+: A Multi-Scale Efficient Spectral Graph Attention Network With Long-Term Trends for Disentangled Traffic Flow Forecasting. IEEE Transactions on Knowledge and Data Engineering. (**TKDE 2023**)
+7. Bo Hui, **Yuchen Fang**<sup>+</sup>, Tian Xia, Sarp Aykent, Wei-Shinn Ku*. Constrained Market Share Maximization by Signal-Guided Optimization. The 37th AAAI Conference on Artificial Intelligence. (**AAAI 2023**)
+8. Yanjun Qin, Haiyong Luo, Fang Zhao, **Yuchen Fang**, Xiaoming Tao*, Chenxing Wang. Spatio-temporal hierarchical MLP network for traffic forecasting. Information Sciences. (IS 2023)
+9. **Yuchen Fang**, Yanjun Qin, Haiyong Luo*, Fang Zhao*, Bingbing Xu, Liang Zeng, Chenxing Wang. When spatio-temporal meet wavelets: Disentangled traffic forecasting via efficient spectral graph attention networks. The 40th IEEE International Conference on Data Engineering. (**ICDE 2023**)
+10. **Yuchen Fang**, Fang Zhao*, Yanjun Qin, Haiyong Luo*, Chenxing Wang. Learning All Dynamics: Traffic Forecasting via Locality-Aware Spatio-Temporal Joint Transformer. IEEE Transactions on Intelligent Transportation Systems. (T-ITS 2022) 
+11. Yanjun Qin, **Yuchen Fang**<sup>+</sup>, Haiyong Luo*, Fang Zhao*, Chenxing Wang. Next Point-of-Interest Recommendation with Auto-Correlation Enhanced Multi-Modal Transformer Network. The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2022**)
+12. Chenxing Wang, Fang Zhao*, Haichao Zhang, Haiyong Luo*, Yanjun Qin, **Yuchen Fang**. Fine-Grained Trajectory-Based Travel Time Estimation for Multi-City Scenarios Based on Deep Meta-Learning. IEEE Transactions on Intelligent Transportation Systems. (T-ITS 2022)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+&emsp; &emsp; &emsp; **Note**: * and <sup>+</sup> indicate the corresponding author and co-first author
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2016.09 - 2020.06*, Beijing Forestry University, Bachelor
+  - Computer Science and Technology, School of Information
+- *2020.09 - 2023.06*, Beijing University of Posts and Telecommunications, Master
+  - Software Engineering, School of Computer Science (National Pilot Software Engineering School)
+- *2024.09 - present*, University of Electronic Science and Technology of China, Ph.D.
+  - Computer Science and Technology, School of Computer Science and Engineering
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+- *2020.09 - 2022.06*, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China.
+  - Spatio-Temporal Data Mining
+  - Mentor: [Haiyong Luo](https://people.ucas.ac.cn/~luohaiyong)
+- *2023.07 - 2024.06*, Huawei Cloud Database Innovation Lab, Huawei Technologies Co. Ltd., Chengdu, China.
+  - Time Series Analysis
+  - Mentor: [Jiandong Xie](https://dblp.org/pid/203/9483.html)
+
+# 🎖 Honors and Awards
+- The Outstanding Master Thesis of BUPT, 2023
+- National Scholarship, 2022
+- First-class People's Scholarship, (2020, 2021, 2022)
+- Bronze Medal in the ACM-ICPC Asia-East Continent Final Programming Contest Xi'an Site, 2018
+
+# ⏳ Professional Services
+
+#### Program Committee Members
+- PC member, NeurIPS 2024
+- Sub-Reviewer, WWW 2023
+
+#### Journal Invited Reviewer
+- IEEE Transactions on Neural Networks and Learning Systems
+- IEEE Transactions on Intelligent Transportation Systems
+- Information Sciences
+- Knowledge-Based Systems
