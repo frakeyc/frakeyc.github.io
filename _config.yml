@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuchen Fang (方雨晨)"
-description              : "PhD student in UESTC"
+description              : "UESTC"
 repository               : "frakeyc/frakeyc.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuchen Fang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "UESTC"
+  avatar           : "images/my.jpg"
+  bio              : "PhD Student"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
