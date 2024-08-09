@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am now a PhD student in the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/) of the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) under the advisory of Prof. [Kai Zheng](https://zheng-kai.com/). I got my M.E. degree from the Beijing University of Posts and Telecommunications in 2023. My research interests include time series analysis and spatio-temporal data mining. <img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Ffrakeyc%2Ffrakeyc.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I am now a PhD student in the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/) of the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) under the advisory of Prof. [Kai Zheng](https://zheng-kai.com/). I got my M.E. degree from the Beijing University of Posts and Telecommunications in 2023. My research interests include time series analysis and spatio-temporal data mining. <img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Ffrakeyc%2Ffrakeyc.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 
 
 
