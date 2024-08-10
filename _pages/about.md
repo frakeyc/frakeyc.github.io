@@ -82,5 +82,8 @@ Information and Knowledge Management. (Accepted, **CIKM 2024**)
 #### Journal Invited Reviewer
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Intelligent Transportation Systems
+- Information Fusion
 - Information Sciences
 - Knowledge-Based Systems
+- Engineering Applications of Artificial Intelligence
+- Neurocomputing
