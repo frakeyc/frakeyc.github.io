@@ -46,6 +46,7 @@ Information and Knowledge Management. (Accepted, **CIKM 2024**)
 10. **Yuchen Fang**, Fang Zhao<sup>#</sup>, Yanjun Qin, Haiyong Luo<sup>#</sup>, Chenxing Wang. Learning All Dynamics: Traffic Forecasting via Locality-Aware Spatio-Temporal Joint Transformer. IEEE Transactions on Intelligent Transportation Systems. (T-ITS 2022) 
 11. Yanjun Qin, **Yuchen Fang**<sup>+</sup>, Haiyong Luo<sup>#</sup>, Fang Zhao<sup>#</sup>, Chenxing Wang. Next Point-of-Interest Recommendation with Auto-Correlation Enhanced Multi-Modal Transformer Network. The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2022**)
 12. Chenxing Wang, Fang Zhao<sup>#</sup>, Haichao Zhang, Haiyong Luo<sup>#</sup>, Yanjun Qin, **Yuchen Fang**. Fine-Grained Trajectory-Based Travel Time Estimation for Multi-City Scenarios Based on Deep Meta-Learning. IEEE Transactions on Intelligent Transportation Systems. (T-ITS 2022)
+13. Yanjun Qin, Haiyong Luo, Fang Zhao<sup>#</sup>, Chenxing Wang, Yuchen Fang. NDGCN: Network in Network, Dilate Convolution and Graph Convolutional Networks Based Transportation Mode Recognition. IEEE Transactions on Vehicular Technology. (TVT 2021)
 
 &emsp; &emsp; &emsp; **Note**: <sup>#</sup> and <sup>+</sup> indicate the corresponding author and co-first author
 
@@ -83,8 +84,4 @@ Information and Knowledge Management. (Accepted, **CIKM 2024**)
 - IEEE Transactions on Knowledge and Data Engineering
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Intelligent Transportation Systems
-- Information Fusion
 - Information Sciences
-- Knowledge-Based Systems
-- Engineering Applications of Artificial Intelligence
-- Neurocomputing
