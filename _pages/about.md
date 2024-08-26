@@ -76,12 +76,12 @@ Information and Knowledge Management. (Accepted, **CIKM 2024**)
 
 # ⏳ Professional Services
 
-#### Program Committee Members
-- PC member, NeurIPS 2024
-- Sub-Reviewer, WWW 2023
+#### PC Member & Reviewer
+- 2025: ICLR, CSCW
+- 2024: NeurIPS
+- 2023: WWW
 
 #### Journal Invited Reviewer
-- IEEE Transactions on Knowledge and Data Engineering
-- IEEE Transactions on Neural Networks and Learning Systems
-- IEEE Transactions on Intelligent Transportation Systems
-- Information Sciences
+- Data Mining: TKDE, Information Fusion, KBS
+- Artificial Intelligence: TNNLS, Information Sciences, EAAI, Neurocomputing
+- Interdiscipline: T-ITS
