@@ -79,7 +79,7 @@ Information and Knowledge Management. (Accepted, **CIKM 2024**)
 # ⏳ Professional Services
 
 #### PC Member & Reviewer
-- 2025: ICLR, CSCW
+- 2025: ICLR, CSCW, AISTATS
 - 2024: NeurIPS
 - 2023: WWW
 
