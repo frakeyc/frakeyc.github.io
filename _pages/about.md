@@ -85,5 +85,5 @@ Information and Knowledge Management. (**CIKM 2024**)
 
 #### Journal Invited Reviewer
 - Data Mining: TKDE, Information Fusion, Information Sciences
-- Artificial Intelligence: TNNLS, KBS, EAAI, Neurocomputing
-- Interdiscipline: T-ITS
+- Artificial Intelligence: TNNLS, KBS, EAAI, Neurocomputing, Neural Networks
+- Interdiscipline: T-ITS, Scientific Reports
