@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am now a PhD student in the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/) of the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) under the advisory of Prof. [Kai Zheng](https://zheng-kai.com/). I got my M.E. degree from the Beijing University of Posts and Telecommunications in 2023. My research interests include time series analysis and spatio-temporal data mining.
+I am now a PhD student in the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/) of the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) under the advisory of Prof. [Kai Zheng](https://zheng-kai.com/). I got my M.E. degree from the Beijing University of Posts and Telecommunications in 2023.<br/>My research interests include **time series analysis** and **spatio-temporal data mining**.
 
 
 
