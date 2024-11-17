@@ -29,9 +29,9 @@ I am now a PhD student in the [School of Computer Science and Engineering](https
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 One paper is accepted by KDD 2025.
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024. 
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by CIKM 2024. 
-- *2024.02*: &nbsp;🎉🎉 One paper is accepted by ICDE 2024.
 
 # 📝 Publications <img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Ffrakeyc%2Ffrakeyc.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 ### Selected Journal Papers
@@ -46,12 +46,13 @@ I am now a PhD student in the [School of Computer Science and Engineering](https
 9. **[TVT 2021]** NDGCN: Network in Network, Dilate Convolution and Graph Convolutional Networks Based Transportation Mode Recognition.<br/>Yanjun Qin, Haiyong Luo, Fang Zhao<sup>#</sup>, Chenxing Wang, **Yuchen Fang**.
 
 ### Selected Conference Papers
-1. **[NeurIPS 2024]** RAGraph: A General Retrieval-Augmented Graph Learning Framework.<br/>Xinke Jiang, Rihong Qiu, Yongxin Xu, WentaoZhang, Yichen Zhu, Ruizhe zhang, **Yuchen Fang**, Xu Chu, Junfeng Zhao<sup>#</sup>, Yasha Wang<sup>#</sup>.
-2. **[CIKM 2024]** Advancing Certified Robustness of Explanation via Gradient Quantization.<br/>Yang Xiao, Zijie Zhang, **Yuchen Fang**, Da Yan, Yang Zhou, Wei-Shinn Ku, Bo Hui<sup>#</sup>.
-3. **[ICDE 2024]** Temporal-Frequency Masked Autoencoders for Time Series Anomaly Detection.[![](https://img.shields.io/github/stars/LMissher/TFMAE?style=social)](https://github.com/LMissher/TFMAE)<br/>**Yuchen Fang**, Jiandong Xie, Yan Zhao<sup>#</sup>, Lu Chen, Yunjun Gao, Kai Zheng<sup>#</sup>. **(No Revision 19/962)**
-4. **[AAAI 2023]** Constrained Market Share Maximization by Signal-Guided Optimization.[![](https://img.shields.io/github/stars/codingAndBS/AirlineMarket?style=social)]([https://github.com/LMissher/TFMAE](https://github.com/codingAndBS/AirlineMarket))<br/>Bo Hui, **Yuchen Fang**<sup>+</sup>, Tian Xia, Sarp Aykent, Wei-Shinn Ku<sup>#</sup>.
-5. **[ICDE 2023]** When spatio-temporal meet wavelets: Disentangled traffic forecasting via efficient spectral graph attention networks. [![](https://img.shields.io/github/stars/LMissher/STWave?style=social)](https://github.com/LMissher/STWave)<br/>**Yuchen Fang**, Yanjun Qin, Haiyong Luo<sup>#</sup>, Fang Zhao<sup>#</sup>, Bingbing Xu, Liang Zeng, Chenxing Wang.
-6. **[SIGIR 2022]** Next Point-of-Interest Recommendation with Auto-Correlation Enhanced Multi-Modal Transformer Network.<br/>Yanjun Qin, **Yuchen Fang**<sup>+</sup>, Haiyong Luo<sup>#</sup>, Fang Zhao<sup>#</sup>, Chenxing Wang.
+1. **[KDD 2025]** Efficient Large-Scale Traffic Forecasting with Transformers: A Spatial Data Management Perspective.<br/>**Yuchen Fang**, Yuxuan Liang, Bo Hui, Zezhi Shao, Liwei Deng, Xu Liu, Xinke Jiang, Kai Zheng<sup>#</sup>.
+2. **[NeurIPS 2024]** RAGraph: A General Retrieval-Augmented Graph Learning Framework.<br/>Xinke Jiang, Rihong Qiu, Yongxin Xu, WentaoZhang, Yichen Zhu, Ruizhe zhang, **Yuchen Fang**, Xu Chu, Junfeng Zhao<sup>#</sup>, Yasha Wang<sup>#</sup>.
+3. **[CIKM 2024]** Advancing Certified Robustness of Explanation via Gradient Quantization.<br/>Yang Xiao, Zijie Zhang, **Yuchen Fang**, Da Yan, Yang Zhou, Wei-Shinn Ku, Bo Hui<sup>#</sup>.
+4. **[ICDE 2024]** Temporal-Frequency Masked Autoencoders for Time Series Anomaly Detection.[![](https://img.shields.io/github/stars/LMissher/TFMAE?style=social)](https://github.com/LMissher/TFMAE)<br/>**Yuchen Fang**, Jiandong Xie, Yan Zhao<sup>#</sup>, Lu Chen, Yunjun Gao, Kai Zheng<sup>#</sup>. **(No Revision 19/962)**
+5. **[AAAI 2023]** Constrained Market Share Maximization by Signal-Guided Optimization.[![](https://img.shields.io/github/stars/codingAndBS/AirlineMarket?style=social)]([https://github.com/LMissher/TFMAE](https://github.com/codingAndBS/AirlineMarket))<br/>Bo Hui, **Yuchen Fang**<sup>+</sup>, Tian Xia, Sarp Aykent, Wei-Shinn Ku<sup>#</sup>.
+6. **[ICDE 2023]** When spatio-temporal meet wavelets: Disentangled traffic forecasting via efficient spectral graph attention networks. [![](https://img.shields.io/github/stars/LMissher/STWave?style=social)](https://github.com/LMissher/STWave)<br/>**Yuchen Fang**, Yanjun Qin, Haiyong Luo<sup>#</sup>, Fang Zhao<sup>#</sup>, Bingbing Xu, Liang Zeng, Chenxing Wang.
+7. **[SIGIR 2022]** Next Point-of-Interest Recommendation with Auto-Correlation Enhanced Multi-Modal Transformer Network.<br/>Yanjun Qin, **Yuchen Fang**<sup>+</sup>, Haiyong Luo<sup>#</sup>, Fang Zhao<sup>#</sup>, Chenxing Wang.
 
 
 &emsp; &emsp; &emsp; **Note**: <sup>#</sup> and <sup>+</sup> indicate the corresponding author and co-first author
