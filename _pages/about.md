@@ -46,14 +46,13 @@ I am now a PhD student in the [School of Computer Science and Engineering](https
 9. **[TVT 2021]** NDGCN: Network in Network, Dilate Convolution and Graph Convolutional Networks Based Transportation Mode Recognition.<br/>Yanjun Qin, Haiyong Luo, Fang Zhao<sup>#</sup>, Chenxing Wang, **Yuchen Fang**.
 
 ### Selected Conference Papers
-1. **[KDD 2025]** Efficient Large-Scale Traffic Forecasting with Transformers: A Spatial Data Management Perspective.<br/>**Yuchen Fang**, Yuxuan Liang, Bo Hui, Zezhi Shao, Liwei Deng, Xu Liu, Xinke Jiang, Kai Zheng<sup>#</sup>.
-2. **[NeurIPS 2024]** RAGraph: A General Retrieval-Augmented Graph Learning Framework.<br/>Xinke Jiang, Rihong Qiu, Yongxin Xu, WentaoZhang, Yichen Zhu, Ruizhe zhang, **Yuchen Fang**, Xu Chu, Junfeng Zhao<sup>#</sup>, Yasha Wang<sup>#</sup>.
-3. **[CIKM 2024]** Advancing Certified Robustness of Explanation via Gradient Quantization.<br/>Yang Xiao, Zijie Zhang, **Yuchen Fang**, Da Yan, Yang Zhou, Wei-Shinn Ku, Bo Hui<sup>#</sup>.
-4. **[ICDE 2024]** Temporal-Frequency Masked Autoencoders for Time Series Anomaly Detection.[![](https://img.shields.io/github/stars/LMissher/TFMAE?style=social)](https://github.com/LMissher/TFMAE)<br/>**Yuchen Fang**, Jiandong Xie, Yan Zhao<sup>#</sup>, Lu Chen, Yunjun Gao, Kai Zheng<sup>#</sup>. **(No Revision 19/962)**
-5. **[AAAI 2023]** Constrained Market Share Maximization by Signal-Guided Optimization.[![](https://img.shields.io/github/stars/codingAndBS/AirlineMarket?style=social)]([https://github.com/LMissher/TFMAE](https://github.com/codingAndBS/AirlineMarket))<br/>Bo Hui, **Yuchen Fang**<sup>+</sup>, Tian Xia, Sarp Aykent, Wei-Shinn Ku<sup>#</sup>.
-6. **[ICDE 2023]** When spatio-temporal meet wavelets: Disentangled traffic forecasting via efficient spectral graph attention networks. [![](https://img.shields.io/github/stars/LMissher/STWave?style=social)](https://github.com/LMissher/STWave)<br/>**Yuchen Fang**, Yanjun Qin, Haiyong Luo<sup>#</sup>, Fang Zhao<sup>#</sup>, Bingbing Xu, Liang Zeng, Chenxing Wang.
-7. **[SIGIR 2022]** Next Point-of-Interest Recommendation with Auto-Correlation Enhanced Multi-Modal Transformer Network.<br/>Yanjun Qin, **Yuchen Fang**<sup>+</sup>, Haiyong Luo<sup>#</sup>, Fang Zhao<sup>#</sup>, Chenxing Wang.
-
+- **[KDD 2025]** Efficient Large-Scale Traffic Forecasting with Transformers: A Spatial Data Management Perspective.<br/>**Yuchen Fang**, Yuxuan Liang, Bo Hui, Zezhi Shao, Liwei Deng, Xu Liu, Xinke Jiang, Kai Zheng<sup>#</sup>.
+- **[NeurIPS 2024]** RAGraph: A General Retrieval-Augmented Graph Learning Framework.<br/>Xinke Jiang, Rihong Qiu, Yongxin Xu, WentaoZhang, Yichen Zhu, Ruizhe zhang, **Yuchen Fang**, Xu Chu, Junfeng Zhao<sup>#</sup>, Yasha Wang<sup>#</sup>.
+- **[CIKM 2024]** Advancing Certified Robustness of Explanation via Gradient Quantization.<br/>Yang Xiao, Zijie Zhang, **Yuchen Fang**, Da Yan, Yang Zhou, Wei-Shinn Ku, Bo Hui<sup>#</sup>.
+- **[ICDE 2024]** Temporal-Frequency Masked Autoencoders for Time Series Anomaly Detection.[![](https://img.shields.io/github/stars/LMissher/TFMAE?style=social)](https://github.com/LMissher/TFMAE)<br/>**Yuchen Fang**, Jiandong Xie, Yan Zhao<sup>#</sup>, Lu Chen, Yunjun Gao, Kai Zheng<sup>#</sup>. **(No Revision 19/962)**
+- **[AAAI 2023]** Constrained Market Share Maximization by Signal-Guided Optimization.[![](https://img.shields.io/github/stars/codingAndBS/AirlineMarket?style=social)]([https://github.com/LMissher/TFMAE](https://github.com/codingAndBS/AirlineMarket))<br/>Bo Hui, **Yuchen Fang**<sup>+</sup>, Tian Xia, Sarp Aykent, Wei-Shinn Ku<sup>#</sup>.
+- **[ICDE 2023]** When spatio-temporal meet wavelets: Disentangled traffic forecasting via efficient spectral graph attention networks. [![](https://img.shields.io/github/stars/LMissher/STWave?style=social)](https://github.com/LMissher/STWave)<br/>**Yuchen Fang**, Yanjun Qin, Haiyong Luo<sup>#</sup>, Fang Zhao<sup>#</sup>, Bingbing Xu, Liang Zeng, Chenxing Wang.  
+- ``SIGIR 2022`` Next Point-of-Interest Recommendation with Auto-Correlation Enhanced Multi-Modal Transformer Network.<br/>Yanjun Qin, **Yuchen Fang**<sup>+</sup>, Haiyong Luo<sup>#</sup>, Fang Zhao<sup>#</sup>, Chenxing Wang. <span style="color:red">(Oral)</span>
 
 &emsp; &emsp; &emsp; **Note**: <sup>#</sup> and <sup>+</sup> indicate the corresponding author and co-first author
 
