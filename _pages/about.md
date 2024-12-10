@@ -55,7 +55,7 @@ I am now a PhD student in the [School of Computer Science and Engineering](https
 - <span style="color:blue">[T-ITS 22]</span> [Fine-Grained Trajectory-Based Travel Time Estimation for Multi-City Scenarios Based on Deep Meta-Learning](https://ieeexplore.ieee.org/abstract/document/9700746).<br/>Chenxing Wang, Fang Zhao<sup>✉️</sup>, Haichao Zhang, Haiyong Luo<sup>✉️</sup>, Yanjun Qin, **Yuchen Fang**. <span style="color:red">(CCF-B Q1)</span>
 - <span style="color:blue">[TVT 21]</span> [NDGCN: Network in Network, Dilate Convolution and Graph Convolutional Networks Based Transportation Mode Recognition](https://ieeexplore.ieee.org/abstract/document/9360463).<br/>Yanjun Qin, Haiyong Luo, Fang Zhao<sup>✉️</sup>, Chenxing Wang, **Yuchen Fang**. <span style="color:red">(Q1)</span>
 
-&emsp; &emsp; &emsp; **Note**: <sup>✉️</sup> and <sup>+</sup> indicate the corresponding author and co-first author
+&emsp; &emsp; &emsp; **Note**: <sup>✉️</sup> and <sup>☑️</sup> indicate the corresponding author and co-first author
 
 # 📖 Educations
 
