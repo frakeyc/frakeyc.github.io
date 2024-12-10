@@ -29,9 +29,9 @@ I am now a PhD student in the [School of Computer Science and Engineering](https
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025. 
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by KDD 2025.
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024. 
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted by CIKM 2024. 
 
 # 📝 Publications <img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Ffrakeyc%2Ffrakeyc.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 ### Selected Conference Papers
