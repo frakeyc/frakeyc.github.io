@@ -29,7 +29,7 @@ I am now a PhD student in the [School of Computer Science and Engineering](https
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025. 
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025. 
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by KDD 2025.
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024. 
 
