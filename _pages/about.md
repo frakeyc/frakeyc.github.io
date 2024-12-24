@@ -84,11 +84,11 @@ I am now a PhD student in the [School of Computer Science and Engineering](https
 # ⏳ Professional Services
 
 #### PC Member & Reviewer
-- 2025: ICLR, CSCW, AISTATS
+- 2025: ICML, ICLR, CSCW, IJCAI, AISTATS
 - 2024: NeurIPS
 - 2023: WWW
 
 #### Journal Invited Reviewer
-- Data Mining: TKDE, Information Fusion, Information Sciences
-- Artificial Intelligence: TNNLS, KBS, EAAI, Neurocomputing, Neural Networks
+- Data Mining: TKDE, Information Fusion, Information Sciences, KBS
+- Artificial Intelligence: TNNLS, EAAI, Neurocomputing, Neural Networks
 - Interdiscipline: T-ITS, Scientific Reports
