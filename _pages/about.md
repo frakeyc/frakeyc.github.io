@@ -35,7 +35,7 @@ I am now a PhD student in the [School of Computer Science and Engineering](https
 
 # 📝 Publications <img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Ffrakeyc%2Ffrakeyc.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 ### Selected Conference Papers
-- <span style="color:blue">[AAAI 25]</span> Time Series Supplier Allocation via Deep Black-Litterman Model.<br/>Xinke Jiang, Wentao Zhang<sup>☑️</sup>, **Yuchen Fang**<sup>☑️</sup>, Xiaowei Gao<sup>✉️</sup>, Hao Chen, Haoyu Zhang, Dingyi Zhuang, Jiayuan Luo. <span style="color:red">(CCF-A)</span>
+- <span style="color:blue">[AAAI 25]</span> Time Series Supplier Allocation via Deep Black-Litterman Model.<br/>Xinke Jiang, Wentao Zhang<sup>☑️</sup>, **Yuchen Fang**<sup>☑️</sup>, Xiaowei Gao<sup>✉️</sup>, Hao Chen, Haoyu Zhang, Dingyi Zhuang, Jiayuan Luo. <span style="color:red">(CCF-A Oral 600/12957)</span>
 - <span style="color:blue">[SIGKDD 25]</span> [Efficient Large-Scale Traffic Forecasting with Transformers: A Spatial Data Management Perspective](https://arxiv.org/abs/2412.09972).[![](https://img.shields.io/github/stars/LMissher/PatchSTG?style=social)](https://github.com/LMissher/PatchSTG)<br/>**Yuchen Fang**, Yuxuan Liang, Bo Hui, Zezhi Shao, Liwei Deng, Xu Liu, Xinke Jiang, Kai Zheng<sup>✉️</sup>. <span style="color:red">(CCF-A)</span>
 - <span style="color:blue">[NeurIPS 24]</span> [RAGraph: A General Retrieval-Augmented Graph Learning Framework](https://arxiv.org/abs/2410.23855).[![](https://img.shields.io/github/stars/Artessay/RAGraph?style=social)](https://github.com/Artessay/RAGraph)<br/>Xinke Jiang, Rihong Qiu, Yongxin Xu, WentaoZhang, Yichen Zhu, Ruizhe zhang, **Yuchen Fang**, Xu Chu, Junfeng Zhao<sup>✉️</sup>, Yasha Wang<sup>✉️</sup>. <span style="color:red">(CCF-A)</span>
 - <span style="color:blue">[CIKM 24]</span> [Advancing Certified Robustness of Explanation via Gradient Quantization](https://dl.acm.org/doi/abs/10.1145/3627673.3679650).[![](https://img.shields.io/github/stars/NKUShaw/CertifiedExplanation?style=social)](https://github.com/NKUShaw/CertifiedExplanation)<br/>Yang Xiao, Zijie Zhang, **Yuchen Fang**, Da Yan, Yang Zhou, Wei-Shinn Ku, Bo Hui<sup>✉️</sup>. <span style="color:red">(CCF-B)</span>
@@ -84,7 +84,7 @@ I am now a PhD student in the [School of Computer Science and Engineering](https
 # ⏳ Professional Services
 
 #### PC Member & Reviewer
-- 2025: ICML, ICLR, CSCW, IJCAI, AISTATS
+- 2025: ICML, SIGKDD, ICLR, CSCW, IJCAI (SPC), AISTATS
 - 2024: NeurIPS
 - 2023: WWW
 
