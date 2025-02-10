@@ -90,6 +90,6 @@ I am now a PhD student in the [School of Computer Science and Engineering](https
 - 2023: WWW
 
 #### Journal Invited Reviewer
-- Data Mining: TKDE, Information Fusion, Information Sciences, KBS
-- Artificial Intelligence: TNNLS, EAAI, Neurocomputing, Neural Networks
-- Interdiscipline: TMC, T-ITS, Scientific Reports
+- Data Mining: TKDE, TMC, Inf.Fus., Inf.Sci., KBS
+- Artificial Intelligence: TNNLS, EAAI, NeuComp, Neu.Net.
+- Interdiscipline: T-ITS, Sci.Rep.
