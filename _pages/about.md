@@ -85,11 +85,11 @@ I am now a PhD student in the [School of Computer Science and Engineering](https
 # ⏳ Professional Services
 
 #### PC Member & Reviewer
-- 2025: ICML, SIGKDD, ICLR, CSCW, IJCAI (SPC), AISTATS
+- 2025: ICML, NeurIPS, SIGKDD, SIGIR, ICLR, CSCW, IJCAI (SPC), AISTATS
 - 2024: NeurIPS
 - 2023: WWW
 
 #### Journal Invited Reviewer
 - Data Mining: TKDE, TMC, Inf.Fus., Inf.Sci., KBS
-- Artificial Intelligence: TNNLS, EAAI, NeuComp, Neu.Net.
+- Artificial Intelligence: TNNLS, Neu.Net., NeuComp, EAAI
 - Interdiscipline: T-ITS, Sci.Rep.
