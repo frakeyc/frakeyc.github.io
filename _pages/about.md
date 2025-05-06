@@ -29,12 +29,13 @@ I am now a PhD student in the [School of Computer Science and Engineering](https
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2025.
 - *2025.03*: &nbsp;🎉🎉 Two papers are accepted by ICDE 2025.
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025. 
-- *2024.11*: &nbsp;🎉🎉 One paper is accepted by KDD 2025.
 
 # 📝 Publications <img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Ffrakeyc%2Ffrakeyc.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 ### Selected Conference Papers
+1. <span style="color:blue">[ICML 25]</span> Efficient Graph Continual Learning via Lightweight Graph Neural Tangent Kernels-based Dataset Distillation.<br/>Rihong Qiu, Xinke Jiang<sup>+</sup>, **Yuchen Fang**<sup>+</sup>, Hongbin Lai<sup>+</sup>, Hao Miao<sup>+</sup>, Xu Chu, Junfeng Zhao<sup>#</sup>, Yasha Wang<sup>#</sup>. <span style="color:red">(CCF-A)</span>
 1. <span style="color:blue">[ICDE 25]</span> Optimizing Multi-Center Collaboration for Task Assignment in Spatial Crowdsourcing.<br/>Ximu Zeng, Xinglin Jiang, Liwei Deng, **Yuchen Fang**, Yan Zhao<sup>#</sup>, Kai Zheng<sup>#</sup>. <span style="color:red">(CCF-A)</span>
 1. <span style="color:blue">[ICDE 25]</span> Towards Accurate Distance Estimation for Distribution-Aware $c$-ANN Search.<br/>Liwei Deng, Penghao Chen, Ximu Zeng, **Yuchen Fang**, Jin Chen<sup>#</sup>, Yan Zhao<sup>#</sup>. <span style="color:red">(CCF-A)</span>
 1. <span style="color:blue">[AAAI 25]</span> Time Series Supplier Allocation via Deep Black-Litterman Model.<br/>Xinke Jiang, Wentao Zhang<sup>+</sup>, **Yuchen Fang**<sup>+</sup>, Xiaowei Gao<sup>#</sup>, Hao Chen, Haoyu Zhang, Dingyi Zhuang, Jiayuan Luo<sup>#</sup>. <span style="color:red">(CCF-A Oral 600/12957)</span>
@@ -87,7 +88,7 @@ I am now a PhD student in the [School of Computer Science and Engineering](https
 # ⏳ Professional Services
 
 #### PC Member & Reviewer
-- 2025: ICML, NeurIPS, SIGKDD, SIGIR, ICLR, CSCW, IJCAI (SPC), ACM MM, AISTATS
+- 2025: ICML, NeurIPS, SIGKDD, SIGIR, ICLR, CSCW, IJCAI (SPC), ACM MM, ECAI, AISTATS
 - 2024: NeurIPS
 - 2023: WWW
 
