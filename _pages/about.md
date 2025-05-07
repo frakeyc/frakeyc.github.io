@@ -95,4 +95,4 @@ I am now a PhD student in the [School of Computer Science and Engineering](https
 #### Journal Invited Reviewer
 - Data Mining: TKDE, TMC, Inf.Fus., Inf.Sci., KBS
 - Artificial Intelligence: TNNLS, Neu.Net., NeuComp, EAAI
-- Interdiscipline: T-ITS, Sci.Rep.
+- Interdiscipline: T-ITS, JTTE, Sci.Rep.
