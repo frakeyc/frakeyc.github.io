@@ -29,12 +29,14 @@ I am now a PhD student in the [School of Computer Science and Engineering](https
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2025. 
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by ACL 2025. 
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2025.
 - *2025.03*: &nbsp;🎉🎉 Two papers are accepted by ICDE 2025.
 
 # 📝 Publications <img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Ffrakeyc%2Ffrakeyc.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 ### Selected Conference Papers
+1. <span style="color:blue">[NeurIPS 25]</span> [STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization](https://arxiv.org/abs/2505.19547).<br/>Haoyu Zhang, Wentao Zhang<sup>+</sup>, Hao Miao<sup>+</sup>, Xinke Jiang, **Yuchen Fang**, Yifan Zhang<sup>#</sup>. <span style="color:red">(CCF-A)</span>
 1. <span style="color:blue">[ACL 25]</span> [TC–RAG: Turing–Complete RAG’s Case study on Medical LLM Systems](https://arxiv.org/pdf/2408.09199).<br/>Xinke Jiang, Yue Fang<sup>+</sup>, Rihong Qiu<sup>+</sup>, Haoyu Zhang, Yongxin Xu, Hao Chen, WentaoZhang, Ruizhe Zhang, **Yuchen Fang**, Xinyu Ma, Xu Chu<sup>#</sup>, Junfeng Zhao<sup>#</sup>, Yasha Wang<sup>#</sup>. <span style="color:red">(CCF-A)</span>
 1. <span style="color:blue">[ICML 25]</span> [Efficient Graph Continual Learning via Lightweight Graph Neural Tangent Kernels-based Dataset Distillation](https://icml.cc/virtual/2025/poster/45684).<br/>Rihong Qiu, Xinke Jiang<sup>+</sup>, **Yuchen Fang**<sup>+</sup>, Hongbin Lai<sup>+</sup>, Hao Miao<sup>+</sup>, Xu Chu, Junfeng Zhao<sup>#</sup>, Yasha Wang<sup>#</sup>. <span style="color:red">(CCF-A)</span>
 1. <span style="color:blue">[ICDE 25]</span> [Optimizing Multi-Center Collaboration for Task Assignment in Spatial Crowdsourcing](https://zheng-kai.com/paper/2025_icde_zeng.pdf).<br/>Ximu Zeng, Xinglin Jiang, Liwei Deng, **Yuchen Fang**, Yan Zhao<sup>#</sup>, Kai Zheng<sup>#</sup>. <span style="color:red">(CCF-A)</span>
@@ -89,11 +91,12 @@ I am now a PhD student in the [School of Computer Science and Engineering](https
 # ⏳ Professional Services
 
 #### PC Member & Reviewer
-- 2025: ICML, NeurIPS, SIGKDD, SIGIR, ICLR, CSCW, IJCAI (SPC), WSDM, ACM MM, ECAI, AISTATS
+- 2026: ICLR, AAAI, WSDM, AISTATS, PAKDD
+- 2025: SIGKDD, ICML, NeurIPS, ICLR, SIGIR, CSCW, IJCAI (SPC), ACM MM, ECAI, AISTATS
 - 2024: NeurIPS
 - 2023: WWW
 
 #### Journal Invited Reviewer
-- Data Mining: TKDE, TMC, Inf.Fus., Inf.Sci., KBS
+- Data Mining: TKDE, TMC, Inf.Fus., Inf.Sci., KBS, ESWA
 - Artificial Intelligence: TNNLS, Neu.Net., NeuComp, EAAI
 - Interdiscipline: T-ITS, JTTE, Sci.Rep.
