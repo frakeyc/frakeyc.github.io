@@ -29,13 +29,15 @@ I am now a PhD student in the [School of Computer Science and Engineering](https
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2025. 
-- *2025.05*: &nbsp;🎉🎉 One paper is accepted by ACL 2025. 
-- *2025.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2025.
-- *2025.03*: &nbsp;🎉🎉 Two papers are accepted by ICDE 2025.
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2026. 
+- *2025.12*: &nbsp;🎉🎉 One paper is accepted by TKDE 2026.
+- *2025.11*: &nbsp;🎉🎉 Two papers are accepted by AAAI 2026.
 
 # 📝 Publications <img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Ffrakeyc%2Ffrakeyc.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 ### Selected Conference Papers
+1. <span style="color:blue">[WWW 26]</span> [Efficient High-Dimensional Time Series Forecasting with Transformers: A Channel Reordering Perspective](https://zheng-kai.com/paper/2026_www_fang.pdf).<br/>**Yuchen Fang**, Shiyu Wang, Yuxuan Liang, Zhou Ye, Yang Xiang, Yan Zhao<sup>#</sup>, Kai Zheng<sup>#</sup>. <span style="color:red">(CCF-A)</span>
+1. <span style="color:blue">[AAAI 26]</span> [Task-Aware Retrieval Augmentation for Dynamic Recommendation](https://arxiv.org/pdf/2511.12495).<br/>Zhen Tao, Xinke Jiang<sup>+</sup>, Qingshuai Feng, Haoyu Zhang, Lun Du, **Yuchen Fang**, Hao Miao, Bangquan Xie, Qingqiang Sun<sup>#</sup>. <span style="color:red">(CCF-A)</span>
+1. <span style="color:blue">[AAAI 26]</span> [Adaptive Frequency Pathways for Spatiotemporal Forecasting](https://arxiv.org/pdf/2511.12495).<br/>Yanjun Qin, **Yuchen Fang**<sup>+</sup>, Xinke Jiang, Hao Miao<sup>#</sup>, Xiaoming Tao. <span style="color:red">(CCF-A)</span>
 1. <span style="color:blue">[NeurIPS 25]</span> [STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization](https://arxiv.org/abs/2505.19547).<br/>Haoyu Zhang, Wentao Zhang<sup>+</sup>, Hao Miao<sup>+</sup>, Xinke Jiang, **Yuchen Fang**, Yifan Zhang<sup>#</sup>. <span style="color:red">(CCF-A)</span>
 1. <span style="color:blue">[ACL 25]</span> [TC–RAG: Turing–Complete RAG’s Case study on Medical LLM Systems](https://arxiv.org/pdf/2408.09199).<br/>Xinke Jiang, Yue Fang<sup>+</sup>, Rihong Qiu<sup>+</sup>, Haoyu Zhang, Yongxin Xu, Hao Chen, WentaoZhang, Ruizhe Zhang, **Yuchen Fang**, Xinyu Ma, Xu Chu<sup>#</sup>, Junfeng Zhao<sup>#</sup>, Yasha Wang<sup>#</sup>. <span style="color:red">(CCF-A)</span>
 1. <span style="color:blue">[ICML 25]</span> [Efficient Graph Continual Learning via Lightweight Graph Neural Tangent Kernels-based Dataset Distillation](https://icml.cc/virtual/2025/poster/45684).<br/>Rihong Qiu, Xinke Jiang<sup>+</sup>, **Yuchen Fang**<sup>+</sup>, Hongbin Lai<sup>+</sup>, Hao Miao<sup>+</sup>, Xu Chu, Junfeng Zhao<sup>#</sup>, Yasha Wang<sup>#</sup>. <span style="color:red">(CCF-A)</span>
@@ -51,6 +53,7 @@ I am now a PhD student in the [School of Computer Science and Engineering](https
 1. <span style="color:blue">[SIGIR 22]</span> [Next Point-of-Interest Recommendation with Auto-Correlation Enhanced Multi-Modal Transformer Network](https://dl.acm.org/doi/10.1145/3477495.3531905).<br/>Yanjun Qin, **Yuchen Fang**<sup>+</sup>, Haiyong Luo<sup>#</sup>, Fang Zhao<sup>#</sup>, Chenxing Wang. <span style="color:red">(CCF-A Short)</span>
 
 ### Selected Journal Papers
+1. <span style="color:blue">[TKDE 26]</span> [Unraveling spatio-temporal foundation models via the pipeline lens: A comprehensive review](https://arxiv.org/pdf/2506.01364).<br/>**Yuchen Fang**, Hao Miao, Yuxuan Liang, Liwei Deng, Yue Cui, Ximu Zeng, Yuyang Xia, Yan Zhao<sup>#</sup>, Torben Bach Pedersen, Christian S Jensen, Xiaofang Zhou, Kai Zheng<sup>#</sup>. <span style="color:red">(CCF-B Q1)</span>
 1. <span style="color:blue">[T-ITS 25]</span> [Cross-transportation-mode Knowledge Transfer for Trajectory Recovery with Meta Learning](https://ieeexplore.ieee.org/abstract/document/10879329).<br/>Chenxing Wang, Fang Zhao<sup>#</sup>, Haiyong Luo<sup>#</sup>, Poly ZH Sun, **Yuchen Fang**. <span style="color:red">(CCF-B Q1)</span>
 1. <span style="color:blue">[TMC 24]</span> [Towards Effective Transportation Mode-aware Trajectory Recovery: Heterogeneity, Personalization and Efficiency](https://ieeexplore.ieee.org/abstract/document/10756642).<br/>Chenxing Wang, Fang Zhao<sup>#</sup>, Haiyong Luo<sup>#</sup>, **Yuchen Fang**, Haichao Zhang, Haoyu Xiong. <span style="color:red">(CCF-A Q1)</span>
 1. <span style="color:blue">[T-IV 24]</span> [CDGNet: A Cross-Time Dynamic Graph-Based Deep Learning Model for Vehicle-Based Traffic Speed Forecasting](https://ieeexplore.ieee.org/abstract/document/10568355).<br/>**Yuchen Fang**, Haiyong Luo<sup>#</sup>, Fang Zhao<sup>#</sup>, Poly ZH Sun, Yanjun Qin, Liang Zeng, Bo Hui, Chenxing Wang. <span style="color:red">(Q1)</span>
@@ -91,12 +94,12 @@ I am now a PhD student in the [School of Computer Science and Engineering](https
 # ⏳ Professional Services
 
 #### PC Member & Reviewer
-- 2026: ICLR, AAAI, WSDM, AISTATS, PAKDD
+- 2026: SIGKDD, WWW, ICML, ICLR, SIGIR, AAAI, IJCAI, WSDM, AISTATS, PAKDD, IJCNN
 - 2025: SIGKDD, ICML, NeurIPS, ICLR, SIGIR, CSCW, IJCAI (SPC), ACM MM, ECAI, AISTATS
 - 2024: NeurIPS
 - 2023: WWW
 
 #### Journal Invited Reviewer
-- Data Mining: TKDE, TMC, Inf.Fus., Inf.Sci., KBS, ESWA
+- Data Mining: TKDE, TMC, TKDD, Inf.Fus., Inf.Sci., KBS, ESWA
 - Artificial Intelligence: TNNLS, Neu.Net., NeuComp, EAAI
-- Interdiscipline: T-ITS, JTTE, Sci.Rep.
+- Interdiscipline: T-ITS, TR-C, JTTE, Sci.Rep.
