@@ -53,7 +53,7 @@ I am now a PhD student in the [School of Computer Science and Engineering](https
 1. <span style="color:blue">[SIGIR 22]</span> [Next Point-of-Interest Recommendation with Auto-Correlation Enhanced Multi-Modal Transformer Network](https://dl.acm.org/doi/10.1145/3477495.3531905).<br/>Yanjun Qin, **Yuchen Fang**<sup>+</sup>, Haiyong Luo<sup>#</sup>, Fang Zhao<sup>#</sup>, Chenxing Wang. <span style="color:red">(CCF-A Short)</span>
 
 ### Selected Journal Papers
-1. <span style="color:blue">[TKDE 26]</span> [Unraveling spatio-temporal foundation models via the pipeline lens: A comprehensive review](https://arxiv.org/pdf/2506.01364).<br/>**Yuchen Fang**, Hao Miao, Yuxuan Liang, Liwei Deng, Yue Cui, Ximu Zeng, Yuyang Xia, Yan Zhao<sup>#</sup>, Torben Bach Pedersen, Christian S Jensen, Xiaofang Zhou, Kai Zheng<sup>#</sup>. <span style="color:red">(CCF-B Q1)</span>
+1. <span style="color:blue">[TKDE 26]</span> [Unraveling spatio-temporal foundation models via the pipeline lens: A comprehensive review](https://arxiv.org/pdf/2506.01364).<br/>**Yuchen Fang**, Hao Miao, Yuxuan Liang, Liwei Deng, Yue Cui, Ximu Zeng, Yuyang Xia, Yan Zhao<sup>#</sup>, Torben Bach Pedersen, Christian S Jensen, Xiaofang Zhou, Kai Zheng<sup>#</sup>. <span style="color:red">(CCF-A Q1)</span>
 1. <span style="color:blue">[T-ITS 25]</span> [Cross-transportation-mode Knowledge Transfer for Trajectory Recovery with Meta Learning](https://ieeexplore.ieee.org/abstract/document/10879329).<br/>Chenxing Wang, Fang Zhao<sup>#</sup>, Haiyong Luo<sup>#</sup>, Poly ZH Sun, **Yuchen Fang**. <span style="color:red">(CCF-B Q1)</span>
 1. <span style="color:blue">[TMC 24]</span> [Towards Effective Transportation Mode-aware Trajectory Recovery: Heterogeneity, Personalization and Efficiency](https://ieeexplore.ieee.org/abstract/document/10756642).<br/>Chenxing Wang, Fang Zhao<sup>#</sup>, Haiyong Luo<sup>#</sup>, **Yuchen Fang**, Haichao Zhang, Haoyu Xiong. <span style="color:red">(CCF-A Q1)</span>
 1. <span style="color:blue">[T-IV 24]</span> [CDGNet: A Cross-Time Dynamic Graph-Based Deep Learning Model for Vehicle-Based Traffic Speed Forecasting](https://ieeexplore.ieee.org/abstract/document/10568355).<br/>**Yuchen Fang**, Haiyong Luo<sup>#</sup>, Fang Zhao<sup>#</sup>, Poly ZH Sun, Yanjun Qin, Liang Zeng, Bo Hui, Chenxing Wang. <span style="color:red">(Q1)</span>
@@ -94,7 +94,7 @@ I am now a PhD student in the [School of Computer Science and Engineering](https
 # ⏳ Professional Services
 
 #### PC Member & Reviewer
-- 2026: SIGKDD, WWW, ICML, ICLR, SIGIR, AAAI, IJCAI, WSDM, AISTATS, PAKDD, IJCNN
+- 2026: SIGKDD, WWW, ICML, ICLR, SIGIR, AAAI, IJCAI, ACM MM, WSDM, AISTATS, PAKDD, IJCNN
 - 2025: SIGKDD, ICML, NeurIPS, ICLR, SIGIR, CSCW, IJCAI (SPC), ACM MM, ECAI, AISTATS
 - 2024: NeurIPS
 - 2023: WWW
