@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am now a PhD student in the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/) of the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) under the advisory of Prof. [Kai Zheng](https://zheng-kai.com/). I got my M.E. degree from the Beijing University of Posts and Telecommunications in 2023.<br/>My research interests include **time series analysis** and **spatio-temporal data mining**.
+I am now a PhD student in the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/) of the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) under the advisory of Prof. [Kai Zheng](https://zheng-kai.com/).<br/>My research interests include **Efficient AI** and **Agentic AI**.
 
 
 
@@ -86,7 +86,7 @@ I am now a PhD student in the [School of Computer Science and Engineering](https
   - Time Series Analysis
 - *2026.01 - 2026.06*, Qingyun Project, Weixin Group, Tencent, Guangzhou, China.
   - Generative Recommendation
-- *2026.07 - Now*, Frontier Tech Program, TikTok Shop, ByteDance, Hangzhou, China.
+- *2026.07 - present*, Frontier Tech Program, TikTok Shop, ByteDance, Hangzhou, China.
   - World Model
 
 # 🎖 Honors and Awards
