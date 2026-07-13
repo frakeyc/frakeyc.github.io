@@ -17,8 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+I am currently a 3rd year Ph.D. candidate in the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/) at the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC), advised by Prof. [Kai Zheng](https://zheng-kai.com/). I am also a Frontier Tech Intern at ByteDance and am actively seeking full-time opportunities.
 
-I am now a PhD student in the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/) of the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) under the advisory of Prof. [Kai Zheng](https://zheng-kai.com/).<br/>My research interests include **Efficient AI** and **Agentic AI**.
+My research interests lie in **Efficient AI** and **Agentic AI**. Please feel free to contact me via email at fyclmiss@gmail.com or WeChat at HiYc_21.
 
 
 
@@ -84,7 +85,7 @@ I am now a PhD student in the [School of Computer Science and Engineering](https
   - Spatio-Temporal Data Mining
 - *2023.07 - 2024.06*, Huawei Cloud Database Innovation Lab, Huawei Technologies Co. Ltd., Chengdu, China.
   - Time Series Analysis
-- *2026.01 - 2026.06*, Qingyun Project, Weixin Group, Tencent, Guangzhou, China.
+- *2026.01 - 2026.06*, Qingyun Program, Weixin Group, Tencent, Guangzhou, China.
   - Generative Recommendation
 - *2026.07 - present*, Frontier Tech Program, TikTok Shop, ByteDance, Hangzhou, China.
   - World Model
