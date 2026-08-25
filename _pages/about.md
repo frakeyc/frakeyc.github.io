@@ -19,8 +19,7 @@ redirect_from:
 
 I am currently a 3rd year Ph.D. candidate in the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/) at the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC), advised by Prof. [Kai Zheng](https://zheng-kai.com/). I am also a Frontier Tech Intern at ByteDance and am actively seeking full-time opportunities.
 
-My research interests lie in **Efficient AI** and **Agentic AI**. Please feel free to contact me via email at fyclmiss@gmail.com or WeChat at HiYc_21.
-
+My research interests lie in **Efficient AI** and **Agentic AI**.
 
 
 
@@ -56,7 +55,8 @@ My research interests lie in **Efficient AI** and **Agentic AI**. Please feel fr
 1. <span style="color:blue">[SIGIR 22]</span> [Next Point-of-Interest Recommendation with Auto-Correlation Enhanced Multi-Modal Transformer Network](https://dl.acm.org/doi/10.1145/3477495.3531905).<br/>Yanjun Qin<sup>+</sup>, **Yuchen Fang**<sup>+</sup>, Haiyong Luo, Fang Zhao, Chenxing Wang. <span style="color:red">(CCF-A Short)</span>
 
 ### Selected Journal Papers
-1. <span style="color:blue">[TKDE 26]</span> [Unraveling spatio-temporal foundation models via the pipeline lens: A comprehensive review](https://arxiv.org/pdf/2506.01364).<br/>**Yuchen Fang**, Hao Miao, Yuxuan Liang, Liwei Deng, Yue Cui, Ximu Zeng, Yuyang Xia, Yan Zhao<sup>#</sup>, Torben Bach Pedersen, Christian S Jensen, Xiaofang Zhou, Kai Zheng. <span style="color:red">(CCF-A Q1)</span>
+1. <span style="color:blue">[TPAMI 26]</span> [Pattern in Motion: Retrieval-Augmented Learning for Dynamic Spatio-Temporal Graphs](https://arxiv.org/pdf/2506.01364).<br/>Yifan Zhang, Haoyu Zhang, Xinke Jiang, Wentao Zhang, **Yuchen Fang**, Hao Miao, Heqing Huang. <span style="color:red">(CCF-A Q1)</span>
+1. <span style="color:blue">[TKDE 26]</span> [Unraveling spatio-temporal foundation models via the pipeline lens: A comprehensive review](https://arxiv.org/pdf/2506.01364).<br/>**Yuchen Fang**, Hao Miao, Yuxuan Liang, Liwei Deng, Yue Cui, Ximu Zeng, Yuyang Xia, Yan Zhao, Torben Bach Pedersen, Christian S Jensen, Xiaofang Zhou, Kai Zheng. <span style="color:red">(CCF-A Q1)</span>
 1. <span style="color:blue">[T-ITS 25]</span> [Cross-transportation-mode Knowledge Transfer for Trajectory Recovery with Meta Learning](https://ieeexplore.ieee.org/abstract/document/10879329).<br/>Chenxing Wang, Fang Zhao, Haiyong Luo, Poly ZH Sun, **Yuchen Fang**. <span style="color:red">(CCF-B Q1)</span>
 1. <span style="color:blue">[TMC 24]</span> [Towards Effective Transportation Mode-aware Trajectory Recovery: Heterogeneity, Personalization and Efficiency](https://ieeexplore.ieee.org/abstract/document/10756642).<br/>Chenxing Wang, Fang Zhao, Haiyong Luo, **Yuchen Fang**, Haichao Zhang, Haoyu Xiong. <span style="color:red">(CCF-A Q1)</span>
 1. <span style="color:blue">[T-IV 24]</span> [CDGNet: A Cross-Time Dynamic Graph-Based Deep Learning Model for Vehicle-Based Traffic Speed Forecasting](https://ieeexplore.ieee.org/abstract/document/10568355).<br/>**Yuchen Fang**, Haiyong Luo, Fang Zhao, Poly ZH Sun, Yanjun Qin, Liang Zeng, Bo Hui, Chenxing Wang. <span style="color:red">(Q1)</span>
@@ -99,7 +99,7 @@ My research interests lie in **Efficient AI** and **Agentic AI**. Please feel fr
 # ⏳ Professional Services
 
 #### PC Member & Reviewer
-- 2027: SIGKDD, AAAI
+- 2027: SIGKDD, AAAI, WSDM
 - 2026: ICML, NeurIPS, SIGKDD, WWW, ICLR, SIGIR, AAAI, IJCAI, ACM MM, WSDM, CIKM, ECML, AISTATS, PAKDD, IJCNN
 - 2025: ICML, NeurIPS, SIGKDD, ICLR, SIGIR, CSCW, IJCAI (SPC), ACM MM, ECAI, AISTATS
 - 2024: NeurIPS
