@@ -85,9 +85,11 @@ My research interests lie in **Efficient AI** and **Agentic AI**.
   - Spatio-Temporal Data Mining
 - *2023.07 - 2024.06*, Huawei Cloud Database Innovation Lab, Huawei Technologies Co. Ltd., Chengdu, China.
   - Time Series Analysis
-- *2026.01 - 2026.06*, Qingyun Program, Weixin Group, Tencent, Guangzhou, China.
+- *2026.01 - 2026.05*, Qingyun Program, Weixin Group, Tencent, Guangzhou, China.
   - Generative Recommendation
-- *2026.07 - present*, Frontier Tech Program, TikTok Shop, ByteDance, Hangzhou, China.
+- *2026.05 - 2026.07*, Ali Star, Qwen Client, Alibaba, Guangzhou, China.
+  - Self-evolving Agents
+- *2026.08 - present*, Frontier Tech Program, TikTok Shop, ByteDance, Hangzhou, China.
   - World Model
 
 # 🎖 Honors and Awards
