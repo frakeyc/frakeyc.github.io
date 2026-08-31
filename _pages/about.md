@@ -101,7 +101,7 @@ My research interests lie in **Efficient AI** and **Agentic AI**.
 # ⏳ Professional Services
 
 #### PC Member & Reviewer
-- 2027: SIGKDD, AAAI, WSDM
+- 2027: SIGKDD, ICLR, AAAI, WSDM, IJCNN
 - 2026: ICML, NeurIPS, SIGKDD, WWW, ICLR, SIGIR, AAAI, IJCAI, ACM MM, WSDM, CIKM, ECML, AISTATS, PAKDD, IJCNN
 - 2025: ICML, NeurIPS, SIGKDD, ICLR, SIGIR, CSCW, IJCAI (SPC), ACM MM, ECAI, AISTATS
 - 2024: NeurIPS
